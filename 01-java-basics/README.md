@@ -1,3 +1,3 @@
-# Java Basics
+# 01 Week Java Building Blocks/Lectures Folder
 
-Covers syntax, variables, operators, conditionals, and loops.
+This folder contains material for 01-week-java-building-blocks/lectures.
