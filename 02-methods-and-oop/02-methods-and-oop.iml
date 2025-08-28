@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/constructors" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/wrapper-classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
